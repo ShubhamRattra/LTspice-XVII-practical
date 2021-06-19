@@ -1,0 +1,21 @@
+Circuit: * C:\Users\sratt\Desktop\New folder\NOTES\6th sem\LABS\PE lab\exp4\Draft1.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Jun 19 16:23:22 2021
+Total elapsed time: 1.648 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 530795
+traniter = 530789
+tranpoints = 161151
+accept = 122896
+rejected = 38255
+matrix size = 11
+fillins = 3
+solver = Normal
+Matrix Compiler1: 704 bytes object code size  0.4/0.2/[0.2]
+Matrix Compiler2: 889 bytes object code size  0.2/0.3/[0.1]
+
