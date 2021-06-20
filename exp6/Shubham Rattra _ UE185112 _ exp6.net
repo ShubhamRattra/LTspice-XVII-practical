@@ -1,0 +1,9 @@
+* C:\Users\sratt\Desktop\New folder\NOTES\6th sem\LABS\PE lab\exp6\Shubham Rattra _ UE185112 _ exp6.asc
+V1 N001 0 SINE(0 325 50)
+V2 N003 N002 PULSE(0 5 5m 1n 1n 1m 20m)
+XU1 N001 N002 N003 TN5015H-6T
+R1 N002 0 5
+.tran 0 60m 0.1m
+.lib C:\Program Files\LTC\LTspiceXVII\lib\high-temperature_scr_pspice\st_high-temperature_scr.lib
+.backanno
+.end
